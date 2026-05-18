@@ -1,0 +1,16 @@
+{
+  "name": "lock-free-ring-buffer",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "ring-buffer",
+    "lock-free",
+    "concurrency",
+    "circular-buffer"
+  ],
+  "author": "Kuncham Venkata Satya Manikanta",
+  "license": "MIT"
+}
